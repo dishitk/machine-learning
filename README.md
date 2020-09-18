@@ -1,2 +1,2 @@
 # machine-learning
-Machine Learning Class
+Machine Learning Class CSCI 6364
