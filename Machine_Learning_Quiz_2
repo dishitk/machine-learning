@@ -1,0 +1,3 @@
+KNN Classifier.
+When K increases (for eg.: K=n), the model tend to underfit as the model becomes simple and compares with every neighbor and assigns the majority class.
+On the other hand, if K is very small (for eg.: K=1), the complexity of the model increases and there might be a problem of overfitting because of fine granularity.
